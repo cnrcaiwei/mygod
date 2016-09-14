@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.2.jar spring-tx-4.1.4.RELEASE.jar log4j-
+ 1.2.17.jar jackson-mapper-asl-1.9.13.jar mybatis-3.2.8.jar jackson-da
+ tabind-2.5.0.jar fastjson-1.2.3.jar spring-context-4.1.4.RELEASE.jar 
+ spring-expression-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar jcon
+ sole.jar jackson-core-asl-1.9.13.jar commons-fileupload-1.2.2.jar mys
+ ql-connector-java-5.1.34.jar spring-jdbc-4.1.4.RELEASE.jar aopallianc
+ e-1.0.jar aspectjweaver-1.8.4.jar druid-1.0.12.jar spring-beans-4.1.4
+ .RELEASE.jar mybatis-spring-1.2.2.jar jackson-annotations-2.5.0.jar t
+ ools.jar commons-io-2.4.jar spring-webmvc-4.1.4.RELEASE.jar spring-or
+ m-4.1.4.RELEASE.jar servlet-api-3.0-alpha-1.jar jackson-core-2.5.0.ja
+ r jstl-1.2.jar spring-aop-4.1.4.RELEASE.jar spring-core-4.1.4.RELEASE
+ .jar
+Main-Class: com.fh.godway.LoginController
+
